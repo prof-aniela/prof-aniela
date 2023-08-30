@@ -9,5 +9,5 @@ prof-aniela/prof-aniela is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-aniela.suzan@gmail.com
+e-mail:aniela.suzan@gmail.com
 
